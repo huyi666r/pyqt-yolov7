@@ -20,9 +20,9 @@
 **使用：**
 ```bash
 # conda创建python虚拟环境
-conda create -n yolov7_pyqt5 python=3.8
+conda create -n yolov5_pyqt5 python=3.8
 # 激活环境
-conda activate yolov7_pyqt5
+conda activate yolov5_pyqt5
 # 到项目根目录下
 cd ./
 # 安装依赖文件
